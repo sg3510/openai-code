@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/afa0074c-6f43-4c34-87e2-d0d3bd3ad2af)
+
+
 # Claude Code with OpenAI Models - Easy Setup Guide
 
 ## What is this?
