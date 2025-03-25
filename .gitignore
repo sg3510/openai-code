@@ -37,3 +37,4 @@ venv/
 # OS specific
 .DS_Store
 Thumbs.db
+.qodo
