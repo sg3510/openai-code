@@ -27,6 +27,7 @@ var/
 .installed.cfg
 *.egg
 venv/
+*.pyc
 
 # IDE
 .idea/
